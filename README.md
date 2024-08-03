@@ -7,5 +7,3 @@ The intrusion detector learning task is to build a predictive model (i.e. a clas
 ## Dataset
 Taken from Kaggle : https://www.kaggle.com/datasets/sampadab17/network-intrusion-detection
 
-## Youtube 
-Video : https://www.youtube.com/watch?v=pKWclJMeWMQ&t=694s 
